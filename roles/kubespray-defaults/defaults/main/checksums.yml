@@ -849,6 +849,7 @@ youki_checksums:
     0.0.4: 0
 kata_containers_binary_checksums:
   arm:
+    3.15.0: 0
     3.2.0: 0
     3.1.3: 0
     3.1.2: 0
@@ -857,6 +858,7 @@ kata_containers_binary_checksums:
     3.0.2: 0
     3.0.1: 0
   arm64:
+    3.15.0: fc6b157c82fd1634d2a43dc0aeb5d4adf1e95f429413cba0dff362c71435e27a
     3.2.0: 0
     3.1.3: 0
     3.1.2: 0
@@ -865,6 +867,7 @@ kata_containers_binary_checksums:
     3.0.2: 0
     3.0.1: 0
   amd64:
+    3.15.0: 4953869f2a84950accf3e05675d97f32001fab79f2f54b67cd5809f10ffe9014
     3.2.0: 21bb8484a060450d6522f29bed7d88d773c28520774eaa2c522b6f47fd12c4a1
     3.1.3: 266c906222c85b67867dea3c9bdb58c6da0b656be3a29f9e0bed227c939f3f26
     3.1.2: 11a2921242cdacf08a72bbce85418fc21c2772615cec6f3de7fd371e04188388
@@ -873,6 +876,7 @@ kata_containers_binary_checksums:
     3.0.2: a32dc555ffae23f3caab3bc57b03d5ed7792f651221f6cb95cdfe906e18c4bd1
     3.0.1: e2505482f68cc1b1417b8011f2755bf87171a8dd6daaace28531746118fbddaa
   ppc64le:
+    3.15.0: 90f3004941cad11cb12a749b82a79bc8514459ee356e42d858015497d0585b61
     3.2.0: 0
     3.1.3: 0
     3.1.2: 0
